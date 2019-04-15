@@ -5,7 +5,7 @@
  *
  */
 
-#define DEVICE_MANUFACTURER "David B Brown"
+#define DEVICE_MANUFACTURER "Lizzus"
 #define DEVICE_NAME "Motion-Sensor"
 #define DEVICE_MODEL "Basic"
 #define DEVICE_SERIAL "12345678"
